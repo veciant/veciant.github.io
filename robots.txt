@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://veciant.github.io/sitemap
+Sitemap: https://veciant.github.io/app/sitemap
+Sitemap: https://veciant.github.io/assets/sitemap
+Sitemap: https://veciant.github.io/css/sitemap
+Sitemap: https://veciant.github.io/includes/sitemap
+Sitemap: https://veciant.github.io/item/sitemap
+Sitemap: https://veciant.github.io/src/sitemap
